@@ -1,2 +1,3 @@
 # MenuAdmin
-Java MenuAdmin Console Project
+MenuAdmin and MenuClient console Project...
+>The first project was written in 3 languages. Just for fun re-wrote it in python java and c++;
